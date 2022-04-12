@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3B0735CE-5F8F-4477-9CA6-B77903342112"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF2E992C-3C3C-4947-93F9-C18DD00C77C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSBeltEXAM/Quiz.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF2E992C-3C3C-4947-93F9-C18DD00C77C8 - f38954e569636d6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSBeltEXAM.Quiz.__allocating_init() -&gt; IOSBeltEXAM.Quiz"
+                  moduleName = "IOSBeltEXAM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/IOSBeltEXAM/IOSBeltEXAM/Quiz.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "AF2E992C-3C3C-4947-93F9-C18DD00C77C8 - 92351f1ac70fa1d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSBeltEXAM.Quiz.init() -&gt; IOSBeltEXAM.Quiz"
+                  moduleName = "IOSBeltEXAM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/IOSBeltEXAM/IOSBeltEXAM/Quiz.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
